@@ -1,1 +1,17 @@
 ## REDES PROYECTO API
+
+### Inicializar la base de datos
+```console
+$ yarn db:migrate:latest
+```
+
+### Instalación de librerias
+```console
+$ yarn install
+
+```
+
+### Inicialización del programa
+```console
+$ yarn start:dev 
+```
